@@ -1,0 +1,12 @@
+{
+  "name": "To-Do-List",
+  "version": "1.0.0",
+  "description": "Add Your Goals",
+  "main": "server.js",
+  "author": "Abhishek",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "1.19.0"
+  }
+}
