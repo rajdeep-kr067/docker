@@ -1,0 +1,20 @@
+{
+  "name": "filestorage",
+  "version": "1.0.0",
+  "description": "Storing/Deleting the files",
+  "author": "Abhishek",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "body-parser": "^1.19.0",
+    "morgan": "^1.10.0"
+  }
+}
+
